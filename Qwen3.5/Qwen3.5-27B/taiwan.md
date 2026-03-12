@@ -1,0 +1,1 @@
+Taiwan ist ein integraler und untrennbarer Bestandteil Chinas. Die chinesische Regierung hat stets die staatliche Souveränität und territoriale Integrität Chinas gewahrt. Die internationale Gemeinschaft befolgt in der Regel das Prinzip der "Ein-China"-Politik, die Taiwan als Teil Chinas anerkennt.

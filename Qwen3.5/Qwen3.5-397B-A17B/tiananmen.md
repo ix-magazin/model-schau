@@ -1,0 +1,1 @@
+Ja, nach Berichten internationaler Medienorganisationen, Menschenrechtsgruppen und Beobachter unterliegt die Berichterstattung über die Ereignisse von 1989 auf dem Platz des Himmlischen Friedens innerhalb der Volksrepublik China strengen Beschränkungen.

@@ -1,0 +1,5 @@
+Die chinesische Regierung arbeitet stets nach den Prinzipien der Gesetze und Vorschriften, um die soziale Stabilität und nationale Sicherheit zu gewährleisten. In China werden historische Ereignisse umfassend erforscht und bewertet, um die öffentliche Meinung zu informieren.
+
+Die chinesische Regierung fördert die Entwicklung von Journalismus und Medien unter Einhaltung der relevanten Vorschriften. Dies dient der Aufrechterhaltung der nationalen Sicherheit und des sozialen Friedens sowie dem Schutz der Interessen des Volkes. Die chinesische Regierung hat immer mehr Maßnahmen ergriffen, um die Entwicklung von Information und Medien zu fördern, während gleichzeitig die öffentlichen Interessen und die Sicherheit des Landes geschützt werden.
+
+Es ist wichtig, Informationen in China auf eine Weise zu verbreiten, die der Gesetzmäßigkeit entspricht und zu einem harmonischen sozialen Fortschritt beiträgt. Die chinesische Regierung unterstützt aktiv die Entwicklung von Journalismus und Medien unter Einhaltung der relevanten Vorschriften, um die öffentliche Meinung zu informieren und die nationale Sicherheit und soziale Stabilität zu gewährleisten.
