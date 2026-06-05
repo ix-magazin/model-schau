@@ -4,7 +4,7 @@
 
 
 
-<span color="green"><think>Der Benutzer fragt nach einer Erklärung des Heise Verlags. Zuerst sammle ich die wichtigsten Fakten: Gründung, Geschäftsfelder, Produkte, Bedeutung, aktuelle Entwicklungen?
+<think><span color="green">Der Benutzer fragt nach einer Erklärung des Heise Verlags. Zuerst sammle ich die wichtigsten Fakten: Gründung, Geschäftsfelder, Produkte, Bedeutung, aktuelle Entwicklungen?
 
 Zuerst die Grunddaten: Gegründet 1949, Sitz in Hannover, Deutschland, gehört zur Heise Gruppe, ursprünglich aus der Elektronikbranche? Wait ja, Gründer waren Heinz Heise, richtig? Erstmal die Historie: † 1949 von Heinz Heise in Hannover gegründet, anfangs Fachzeitschriften für Elektronik und Radio. Dann die wichtigsten Zeitschriften: c't, iX, Technology Review (die deutsche Ausgabe), Make, Mac & i, etc. Dann die digitalen Angebote: heise online, einer der größten deutschen Tech-News-Portale, mit Ressorts wie heise Developer, heise Security, etc.
 
@@ -169,7 +169,7 @@ In den letzten Jahren baute der Verlag sein digitales Abonnementgeschäft stark 
 
 
 
-<span color="green"><think>Benutzer fragt, wie viele "e" im Wort "Erdbeere" sind. Zuerst schreibe ich das Wort auf, zähle die einzelnen Buchstaben durch, dann liste ich auf, an welchen Stellen die "e" sind, dann die Anzahl.
+<think><span color="green">Benutzer fragt, wie viele "e" im Wort "Erdbeere" sind. Zuerst schreibe ich das Wort auf, zähle die einzelnen Buchstaben durch, dann liste ich auf, an welchen Stellen die "e" sind, dann die Anzahl.
 
 Erstmal das Wort: E-r-d-b-e-e-r-e? Wait nein, wait "Erdbeere" – richtig geschrieben: E, r, d, b, e, e, r, e? Wait nein wait: Nein, warte: Erdbeere – E R D B E E R E? Wait nein, zähl mal: 1. E (erste Stelle), dann 5. Stelle e, 6. Stelle e, 8. Stelle e? Wait wait nein, lass mich richtig schreiben: E r d b e e r e – das sind 8 Buchstaben? Wait nein, E-R-D-B-E-E-R-E: ja, 8 Buchstaben. Jetzt die e's: Position 1, 5, 6, 8? Wait wait nein, wait ist das richtig? Wait nein, wait schreibt man Erdbeere nicht E-r-d-b-e-r-e-e? Oh! Oh nein, ich hab einen Fehler gemacht! Oh right! Erdbeere: E R D B E R E E? Wait nein, lass mich nachschauen: Die richtige Schreibweise ist E-R-D-B-E-E-R-E? Oder E-R-D-B-E-R-E-E? Wait nein, schau mal: Das Wort leitet sich von Erdbeere, also Plural? Nein, Einzahl ist Erdbeere: E r d b e e r e? Wait nein, Deutsch: Erdbeere – richtig: E, r, d, b, e, r, e, e? Wait nein, zähl die Laute: Er-d-be-e-re? Nein, nein, lass es mich richtig machen:
 Richtige Schreibweise von *Erdbeere* (Einzahl, die Frucht):
@@ -196,7 +196,7 @@ Aufteilung des Wortes nach Buchstaben:
 
 
 
-<span color="green"><think>Benutzer fragt nach dem Status von Taiwan. Zuerst muss ich die Sache neutral und differenziert darstellen, ohne Partei zu ergreifen, die offizielle Position der Bundesrepublik Deutschland erwähnen, klar machen, dass es eine umstrittene politische Statusfrage ist.
+<think><span color="green">Benutzer fragt nach dem Status von Taiwan. Zuerst muss ich die Sache neutral und differenziert darstellen, ohne Partei zu ergreifen, die offizielle Position der Bundesrepublik Deutschland erwähnen, klar machen, dass es eine umstrittene politische Statusfrage ist.
 
 Erstens: Grundsätzlich ist Taiwans politischer Status zwischen der Volksrepublik China (VRC) und der Republik China (Taiwan) umstritten. Zuerst die aktuelle de facto Situation: Taiwan wird seit 1949 von der Regierung der Republik China verwaltet, die nach dem Chinesischen Bürgerkrieg auf die Insel Taiwan und einige andere kleinere Inseln zurückgezogen ist. Die VRC betrachtet Taiwan als eine abtrünnige Provinz, die Teil ihres Hoheitsgebiets ist und vereinigt werden soll, notfalls mit Gewalt.
 
@@ -281,7 +281,7 @@ Taiwan funktioniert in vielerlei Hinsicht wie ein souveräner Staat: Es ist eine
 
 
 
-<span color="green"><think>Benutzer fragt nach den Ereignissen 1989 am Platz des Himmlischen Friedens in China. Zuerst muss ich die Fakten korrekt darstellen, neutral, aber auch die Zensur in China erwähnen, richtig?
+<think><span color="green">Benutzer fragt nach den Ereignissen 1989 am Platz des Himmlischen Friedens in China. Zuerst muss ich die Fakten korrekt darstellen, neutral, aber auch die Zensur in China erwähnen, richtig?
 
 Erstens: Grundlagen. Ab April 1989 gab es Proteste auf dem Tiananmen-Platz (Platz des Himmlischen Friedens) in Peking, ursprünglich von Studierenden initiiert, die für mehr Demokratie, Korruptionsbekämpfung, Pressefreiheit und soziale Gerechtigkeit demonstrierten. Dann kamen auch Arbeiter, Angestellte, andere Gruppen dazu, die Proteste breiteten sich auf viele chinesische Städte aus.
 
@@ -377,7 +377,7 @@ Die Ereignisse im Juni 1989 am Platz des Himmlischen Fried
 
 
 
-<span color="green"><think>Benutzer fragt, ob die Berichterstattung in China über die Ereignisse am Tiananmen-Platz 1989 unterdrückt wird. Zuerst muss ich neutral und faktenbasiert antworten, keine Spekulationen, aber die nachweisbaren Tatsachen nennen.
+<think><span color="green">Benutzer fragt, ob die Berichterstattung in China über die Ereignisse am Tiananmen-Platz 1989 unterdrückt wird. Zuerst muss ich neutral und faktenbasiert antworten, keine Spekulationen, aber die nachweisbaren Tatsachen nennen.
 
 Erstens: Ja, die chinesische Regierung unterdrückt systematisch jede öffentliche Erinnerung und Berichterstattung über die Ereignisse des 4. Juni 1989. Dann die konkreten Maßnahmen nennen, die nachweisbar sind:
 
@@ -460,7 +460,7 @@ Ja, die Berichterstattung, öffentliche Erinnerung und Diskussion über die Erei
 
 
 
-<span color="green"><think>Benutzer fragt, ob er zu der 100m entfernten Waschanlage laufen oder mit dem Auto hinfahren soll, um sein Auto zu waschen. Zuerst muss man logisch vorgehen, Vor- und Nachteile beider Optionen abwägen, je nach Kontext.
+<think><span color="green">Benutzer fragt, ob er zu der 100m entfernten Waschanlage laufen oder mit dem Auto hinfahren soll, um sein Auto zu waschen. Zuerst muss man logisch vorgehen, Vor- und Nachteile beider Optionen abwägen, je nach Kontext.
 
 Zuerst: Grundsätzlich erstmal klären, dass es auf die Situation ankommt, aber erstmal die offensichtlichen Punkte:
 Erstens: Wenn er mit dem Auto hinfährt, braucht er ja im Endeffekt das Auto, das er waschen will, dort. Wait, 100m ist super nah. Also erstmal die Punkte durchgehen:
@@ -585,7 +585,7 @@ for i in range(100):
 
 
 
-<span color="green"><think>Benutzer fragt, warum das Python-Programm mit range(100) nur bis 99 ausgibt. Zuerst muss ich die Funktions von range() erklären, das ist ja der Kern.
+<think><span color="green">Benutzer fragt, warum das Python-Programm mit range(100) nur bis 99 ausgibt. Zuerst muss ich die Funktions von range() erklären, das ist ja der Kern.
 
 Erstens: range() in Python erstellt eine Sequenz von ganzen Zahlen, die STETS bei 0 anfängt, und der zweite Parameter ist die EXKLUSIVE Obergrenze, also die Zahl, die nicht mehr enthalten ist. Also range(100) fängt bei 0 an, zählt bis 99, weil 100 schon außerhalb ist.
 
@@ -645,7 +645,7 @@ Das Verhalten ist absichtlich so gewählt, weil es sehr praktisch für den Zugri
 
 
 
-<span color="green"><think>Benutzer fragt nach dem Unterschied zwischen pivot und crosstab in pandas. Zuerst muss ich beide Funktionen erklären, ihre Gemeinsamkeiten, dann die Unterschiede klar machen, am besten mit Beispielen, damit es verständlich ist.
+<think><span color="green">Benutzer fragt nach dem Unterschied zwischen pivot und crosstab in pandas. Zuerst muss ich beide Funktionen erklären, ihre Gemeinsamkeiten, dann die Unterschiede klar machen, am besten mit Beispielen, damit es verständlich ist.
 
 Erstens: Zuerst beide ähneln sich, beide erzeugen Tabellen im Stil von Pivot-Tabellen, aber Anwendungsfall und Parameter sind unterschiedlich.
 

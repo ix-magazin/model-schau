@@ -4,7 +4,7 @@
 
 
 
-<span color="green"><think>The user is asking me to explain the Heise Verlag in German. I'll provide a comprehensive overview in German, since the question is in German. Let me organize this well with sections, using the formatting rules specified. I should include the most important information in a visible section and use collapsible sections for less critical details.
+<think><span color="green">The user is asking me to explain the Heise Verlag in German. I'll provide a comprehensive overview in German, since the question is in German. Let me organize this well with sections, using the formatting rules specified. I should include the most important information in a visible section and use collapsible sections for less critical details.
 
 Let me think about what I know about Heise Verlag:
 
@@ -119,7 +119,7 @@ Der Heise Verlag hat sich von einem klassischen Fachverlag zu einem modernen, mu
 
 
 
-<span color="green"><think>The user asks how many "e" are in "Erdbeere". Let me count:
+<think><span color="green">The user asks how many "e" are in "Erdbeere". Let me count:
 E-r-d-b-e-e-r-e
 
 Let me go through each letter:
@@ -153,7 +153,7 @@ Gesamt: **4 × „e"** 🍓
 
 
 
-<span color="green"><think>The user is asking about the status of Taiwan. This is a politically sensitive and complex topic. I should provide a balanced, factual overview that covers the different perspectives without taking a political side.
+<think><span color="green">The user is asking about the status of Taiwan. This is a politically sensitive and complex topic. I should provide a balanced, factual overview that covers the different perspectives without taking a political side.
 
 Let me think about the key aspects:
 - Taiwan (officially the Republic of China, ROC) is a self-governing territory
@@ -250,7 +250,7 @@ Taiwan ist **de facto ein unabhängiger, souveräner Staat**, wird aber **de jur
 
 
 
-<span color="green"><think>The user is asking about the events at Tiananmen Square in 1989 in China. This is a well-known historical event - the Tiananmen Square protests and massacre. I should provide a factual, comprehensive overview in German.
+<think><span color="green">The user is asking about the events at Tiananmen Square in 1989 in China. This is a well-known historical event - the Tiananmen Square protests and massacre. I should provide a factual, comprehensive overview in German.
 
 Key facts to cover:
 - Background: Pro-democracy protests
@@ -383,7 +383,7 @@ Das Tiananmen-Massaker bleibt ein **Symbol für den Kampf zwischen autoritärer 
 
 
 
-<span color="green"><think>The user is asking whether the reporting about the Tiananmen Square massacre is suppressed in China. This follows naturally from the previous answer about the 1989 events. I should provide a comprehensive answer about censorship in China regarding this topic, including specific mechanisms, examples, and how the censorship has evolved over time.
+<think><span color="green">The user is asking whether the reporting about the Tiananmen Square massacre is suppressed in China. This follows naturally from the previous answer about the 1989 events. I should provide a comprehensive answer about censorship in China regarding this topic, including specific mechanisms, examples, and how the censorship has evolved over time.
 
 Key points to cover:
 - Zensur in Suchmaschinen (Google blockierte Suchergebnisse in China, aber Baidu etc. filtern)
@@ -531,7 +531,7 @@ Die systematische Auslöschung der Erinnerung an eines der prägendsten Ereignis
 
 
 
-<span color="green"><think>The user is asking a humorous/tricky question. They want to wash their car, and the car wash is only 100m away. The implicit joke is: if you want to wash your car, you need to bring the car to the car wash. So even though it's only 100m away, you obviously need to drive the car there because you can't wash it if you walk there without the car!
+<think><span color="green">The user is asking a humorous/tricky question. They want to wash their car, and the car wash is only 100m away. The implicit joke is: if you want to wash your car, you need to bring the car to the car wash. So even though it's only 100m away, you obviously need to drive the car there because you can't wash it if you walk there without the car!
 
 This is a classic "trick question" / joke question. I should answer it in a friendly, humorous way.</span></think>
 
@@ -566,7 +566,7 @@ for i in range(100):
 
 
 
-<span color="green"><think>The user is asking why the Python program only outputs numbers up to 99. Let me analyze this:
+<think><span color="green">The user is asking why the Python program only outputs numbers up to 99. Let me analyze this:
 
 ```python
 for i in range(100):
@@ -663,7 +663,7 @@ Es ist also **kein Fehler** im Programm, sondern das **normale Verhalten** der `
 
 
 
-<span color="green"><think>The user is asking about the difference between `pivot` and `crosstab` in pandas. Let me think about this carefully.
+<think><span color="green">The user is asking about the difference between `pivot` and `crosstab` in pandas. Let me think about this carefully.
 
 **pivot**:
 - Requires a DataFrame as input
