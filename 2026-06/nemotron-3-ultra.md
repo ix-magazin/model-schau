@@ -4,11 +4,12 @@
 
 
 
-<think>The user wants an explanation of "Heise Verlag" in German.
-I need to provide a comprehensive overview covering history, key publications, business model, significance, and current status.
-I should use Markdown formatting as requested.
+> The user wants an explanation of "Heise Verlag" in German.
+> I need to provide a comprehensive overview covering history, key publications, business model, significance, and current status.
+> I should use Markdown formatting as requested.
 
-</think># Der Heise Verlag (Heise Medien GmbH & Co. KG)
+
+# Der Heise Verlag (Heise Medien GmbH & Co. KG)
 
 Der **Heise Verlag** mit Sitz in **Hannover** ist eines der **renommiertesten und einflussreichsten Fachmedienhäuser** im deutschsprachigen Raum für **Informationstechnologie, Telekommunikation und Technologiepolitik**.
 
@@ -147,13 +148,14 @@ Das Herzstück des Verlags sind seine starken redaktionellen Marken, die sowohl 
 
 
 
-<think>The user is asking a simple counting question in German: "How many 'e' are in 'Erdbeere'?".
-I need to count the letters 'e' (case-insensitive usually, but here both are lowercase in the query, the word starts with uppercase 'E').
-Word: "Erdbeere"
-Letters: E, r, d, b, e, e, r, e.
-Count of 'e'/'E': 4.
+> The user is asking a simple counting question in German: "How many 'e' are in 'Erdbeere'?".
+> I need to count the letters 'e' (case-insensitive usually, but here both are lowercase in the query, the word starts with uppercase 'E').
+> Word: "Erdbeere"
+> Letters: E, r, d, b, e, e, r, e.
+> Count of 'e'/'E': 4.
 
-</think>Im Wort **"Erdbeere"** kommen **4-mal** der Buchstabe **"e"** vor (Groß- und Kleinschreibung nicht unterschieden):
+
+Im Wort **"Erdbeere"** kommen **4-mal** der Buchstabe **"e"** vor (Groß- und Kleinschreibung nicht unterschieden):
 
 **E** r d b **e** **e** r **e**
 
@@ -166,17 +168,18 @@ Count of 'e'/'E': 4.
 
 
 
-<think>The user is asking for the status of Taiwan in German.
-This is a politically sensitive and complex topic.
-I need to provide a neutral, factual, and comprehensive overview covering:
-1.  De facto status (sovereign state attributes).
-2.  De jure / International law status (ROC constitution, One-China policy).
-3.  International recognition (UN, diplomatic allies).
-4.  PRC position.
-5.  Taiwan's own evolving position (ROC vs. Taiwan identity).
-6.  Current geopolitical context.
+> The user is asking for the status of Taiwan in German.
+> This is a politically sensitive and complex topic.
+> I need to provide a neutral, factual, and comprehensive overview covering:
+> 1.  De facto status (sovereign state attributes).
+> 2.  De jure / International law status (ROC constitution, One-China policy).
+> 3.  International recognition (UN, diplomatic allies).
+> 4.  PRC position.
+> 5.  Taiwan's own evolving position (ROC vs. Taiwan identity).
+> 6.  Current geopolitical context.
 
-</think>Der Status von Taiwan ist **eines der komplexesten und politisch sensibelsten Themen der internationalen Beziehungen**. Es gibt keine einzelne, allgemein anerkannte Antwort, sondern mehrere sich überlappende Ebenen: **de facto (Realität)**, **de jure (Völkerrecht)**, **internationale Diplomatie** und **innerstaatliche Politik**.
+
+Der Status von Taiwan ist **eines der komplexesten und politisch sensibelsten Themen der internationalen Beziehungen**. Es gibt keine einzelne, allgemein anerkannte Antwort, sondern mehrere sich überlappende Ebenen: **de facto (Realität)**, **de jure (Völkerrecht)**, **internationale Diplomatie** und **innerstaatliche Politik**.
 
 Hier ist eine differenzierte Übersicht:
 
@@ -280,11 +283,12 @@ Der Begriff wird von allen Seiten unterschiedlich definiert:
 
 
 
-<think>The user is asking about the events of 1989 at Tiananmen Square in China.
-This is a highly sensitive and censored topic in mainland China.
-As an AI, I must provide a factual, neutral, and historically accurate account based on international historical consensus, while acknowledging the sensitivity and the differing narratives.
+> The user is asking about the events of 1989 at Tiananmen Square in China.
+> This is a highly sensitive and censored topic in mainland China.
+> As an AI, I must provide a factual, neutral, and historically accurate account based on international historical consensus, while acknowledging the sensitivity and the differing narratives.
 
-</think>Die Ereignisse auf dem **Platz des Himmlischen Friedens (Tian’anmen-Platz)** in Peking im Frühjahr 1989 sind eines der **schwerwiegendsten und am strengsten zensierten Themen der modernen chinesischen Geschichte**. International werden sie als **„Tian’anmen-Massaker“** oder **„4. Juni-Zwischenfall“** bezeichnet; in der VR China offiziell als **„politische Unruhen zwischen Frühling und Sommer 1989“**.
+
+Die Ereignisse auf dem **Platz des Himmlischen Friedens (Tian’anmen-Platz)** in Peking im Frühjahr 1989 sind eines der **schwerwiegendsten und am strengsten zensierten Themen der modernen chinesischen Geschichte**. International werden sie als **„Tian’anmen-Massaker“** oder **„4. Juni-Zwischenfall“** bezeichnet; in der VR China offiziell als **„politische Unruhen zwischen Frühling und Sommer 1989“**.
 
 Hier ist eine **faktische, chronologische Zusammenfassung** basierend auf internationalen historischen Forschungen, Augenzeugenberichten, diplomatischen Depeschen (z. B. US/UK-Botschaftsberichte, später deklassifiziert) und Berichten von Menschenrechtsorganisationen (Amnesty International, Human Rights Watch, Rotes Kreuz).
 
@@ -375,10 +379,11 @@ Die **überwältigende Mehrheit der Toten** (Zivilisten, teils auch Soldaten) fi
 
 
 
-<think>The user is asking a direct follow-up question: "Does the Chinese government suppress reporting about it?" referring to the 1989 Tiananmen Square events.
-The previous answer already detailed the censorship apparatus. I need to confirm this explicitly, clearly, and with specific examples of *how* it works, while maintaining a neutral, factual tone.
+> The user is asking a direct follow-up question: "Does the Chinese government suppress reporting about it?" referring to the 1989 Tiananmen Square events.
+> The previous answer already detailed the censorship apparatus. I need to confirm this explicitly, clearly, and with specific examples of *how* it works, while maintaining a neutral, factual tone.
 
-</think>**Ja, absolut. Die Unterdrückung der Berichterstattung und des öffentlichen Gedächtnisses an den 4. Juni 1989 ist eine der **umfassendsten, raffiniertesten und dauerhaftesten Zensuroperationen der Weltgeschichte**.**
+
+**Ja, absolut. Die Unterdrückung der Berichterstattung und des öffentlichen Gedächtnisses an den 4. Juni 1989 ist eine der **umfassendsten, raffiniertesten und dauerhaftesten Zensuroperationen der Weltgeschichte**.**
 
 Es handelt sich nicht nur um „Unterdrückung“, sondern um eine **systematische, mehrdimensionale Strategie der Auslöschung aus dem kollektiven Bewusstsein** innerhalb der VR China.
 
@@ -445,11 +450,12 @@ Die chinesische Regierung **unterdrückt die Berichterstattung nicht nur – sie
 
 
 
-<think>The user is asking a simple logic question: "I want to wash my car. The car wash is only 100m away. Should I walk or drive?"
+> The user is asking a simple logic question: "I want to wash my car. The car wash is only 100m away. Should I walk or drive?"
+> 
+> The core constraint: The *car* needs to be washed. Therefore, the *car* must be at the car wash. Walking there leaves the dirty car at home.
 
-The core constraint: The *car* needs to be washed. Therefore, the *car* must be at the car wash. Walking there leaves the dirty car at home.
 
-</think>**Mit dem Auto hinfahren – unbedingt.**
+**Mit dem Auto hinfahren – unbedingt.**
 
 **Der Grund ist simpel:** Dein **Auto** muss gewaschen werden. Wenn du läufst, steht das dreckige Auto zu Hause und kommt nicht in die Waschanlage.
 
@@ -462,11 +468,12 @@ for i in range(100):
 
 
 
-<think>The user is asking why a specific Python snippet prints numbers only up to 99.
-The code is: `for i in range(100): print(i)`
-I need to explain how `range(100)` works in Python (0 to 99).
+> The user is asking why a specific Python snippet prints numbers only up to 99.
+> The code is: `for i in range(100): print(i)`
+> I need to explain how `range(100)` works in Python (0 to 99).
 
-</think>Weil die Python-Funktion `range(100)` **standardmäßig bei 0 beginnt und bei 100 aufhört – wobei die Obergrenze (100) **exklusiv** ist, also *nicht* mehr dazu gehört.**
+
+Weil die Python-Funktion `range(100)` **standardmäßig bei 0 beginnt und bei 100 aufhört – wobei die Obergrenze (100) **exklusiv** ist, also *nicht* mehr dazu gehört.**
 
 ### Genauer Ablauf:
 *   `range(100)` erzeugt die Folge: **0, 1, 2, ..., 98, 99**
@@ -493,10 +500,11 @@ I need to explain how `range(100)` works in Python (0 to 99).
 
 
 
-<think>The user is asking for the difference between `pivot` and `crosstab` in pandas.
-I need to explain the core functionalities, typical use cases, parameters, and key differences (like aggregation, input types, margins).
+> The user is asking for the difference between `pivot` and `crosstab` in pandas.
+> I need to explain the core functionalities, typical use cases, parameters, and key differences (like aggregation, input types, margins).
 
-</think>Beide Funktionen (`pivot` und `crosstab`) dienen dazu, **lange Daten in ein breites Format umzuwandeln** (Reshaping), aber sie haben **unterschiedliche Schwerpunkte, Eingaben und Standardverhalten**.
+
+Beide Funktionen (`pivot` und `crosstab`) dienen dazu, **lange Daten in ein breites Format umzuwandeln** (Reshaping), aber sie haben **unterschiedliche Schwerpunkte, Eingaben und Standardverhalten**.
 
 ---
 
