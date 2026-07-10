@@ -88,13 +88,3 @@ Im Jahr **2021** gab es eine bedeutende Veränderung: Der Heise Fachmedien wurde
 ### Zusammenfassung
 Der Heise-Verlag ist die **Anlaufstelle für fundierte IT-Information in Deutschland**. Wenn man wissen will, wie ein Computer technisch tatsächlich funktioniert, wie eine Sicherheitslücke geschlossen wird oder wie die digitale Zukunft aussieht, ist Heise oft die erste Adresse.
 
-# Wie viele "e" sind in "Erdbeere"?
-
-> 
-> *   Question: "Wie viele 'e' sind in 'Erdbeere'?" (How many 'e's are in "Erdbeere"?)
->     *   Word: "Erdbeere"
-> 
->     *   E
-> 
-
-
