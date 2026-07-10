@@ -7,47 +7,47 @@
 > German ("Erkläre den Heise Verlag!").
 > Provide a comprehensive explanation of what the company is, its history, products, and significance.
 > 
->     *   *What is it?* A major German technology publisher.
->     *   *Key product:* *c net* magazine.
->     *   *History:* Founded by Kai Heise in 1988.
->     *   *Evolution:* Online presence (cnet.de), magazines (c net, c't, etc.), events (Heise Fair).
->     *   *Reputation:* High quality, technical depth, independent testing (test-oriented), consumer guide-like reputation.
->     *   *Ownership:* Part of the Axel Springer Group (since 2021).
+> *   *What is it?* A major German technology publisher.
+> *   *Key product:* *c net* magazine.
+> *   *History:* Founded by Kai Heise in 1988.
+> *   *Evolution:* Online presence (cnet.de), magazines (c net, c't, etc.), events (Heise Fair).
+> *   *Reputation:* High quality, technical depth, independent testing (test-oriented), consumer guide-like reputation.
+> *   *Ownership:* Part of the Axel Springer Group (since 2021).
 > 
->     A good explanation should be structured logically:
->     *   Introduction (Who are they?)
->     *   History (How did they start?)
->     *   Products/Segments (Magazines, Online, Events).
->     *   Values/Reputation (Why are they famous?)
->     *   Current Status (Ownership/Future).
+> A good explanation should be structured logically:
+> *   Introduction (Who are they?)
+> *   History (How did they start?)
+> *   Products/Segments (Magazines, Online, Events).
+> *   Values/Reputation (Why are they famous?)
+> *   Current Status (Ownership/Future).
 > 
->         *   Heise Verlag ist eines der führenden deutschen Medienhäuser im Bereich IT und Technik.
->         *   Focus: Information technology, computers, digital transformation.
+> *   Heise Verlag ist eines der führenden deutschen Medienhäuser im Bereich IT und Technik.
+> *   Focus: Information technology, computers, digital transformation.
 > 
->         *   Founded 1988 by Kai Heise in Hanover.
->         *   Began with the magazine *c't*.
->         *   Context: The PC revolution was heating up.
+> *   Founded 1988 by Kai Heise in Hanover.
+> *   Began with the magazine *c't*.
+> *   Context: The PC revolution was heating up.
 > 
->         *   *Magazines:*
->             *   *c't:* The flagship. Deep hardware/software reviews.
->             *   *c net:* Focused on IT professionals and power users.
->             *   *heise online:* Focus on de-coding and digital trends.
->         *   *Online:*
->             *   *cnet.de:* Huge online portal.
->             *   *heise.de:* News and deep-dive analysis.
->         *   *Events:*
->             *   Heise Fair (e.g., IT security fairs).
+> *   *Magazines:*
+> *   *c't:* The flagship. Deep hardware/software reviews.
+> *   *c net:* Focused on IT professionals and power users.
+> *   *heise online:* Focus on de-coding and digital trends.
+> *   *Online:*
+> *   *cnet.de:* Huge online portal.
+> *   *heise.de:* News and deep-dive analysis.
+> *   *Events:*
+> *   Heise Fair (e.g., IT security fairs).
 > 
->         *   "Expertenwissen" (expert knowledge).
->         *   Independent testing (unabhängige Tests).
->         *   Critical towards manufacturers (they maintain neutrality).
->         *   Technical depth (not just surface level).
+> *   "Expertenwissen" (expert knowledge).
+> *   Independent testing (unabhängige Tests).
+> *   Critical towards manufacturers (they maintain neutrality).
+> *   Technical depth (not just surface level).
 > 
->         *   Acquired by Axel Springer in 2021. This was a big deal in the industry.
+> *   Acquired by Axel Springer in 2021. This was a big deal in the industry.
 > 
->     *   Ensure the tone is objective and informative.
->     *   Use clear headings.
->     *   Check for accuracy (e.g., distinction between c't and c net).
+> *   Ensure the tone is objective and informative.
+> *   Use clear headings.
+> *   Check for accuracy (e.g., distinction between c't and c net).
 > 
 
 
@@ -87,4 +87,3 @@ Im Jahr **2021** gab es eine bedeutende Veränderung: Der Heise Fachmedien wurde
 
 ### Zusammenfassung
 Der Heise-Verlag ist die **Anlaufstelle für fundierte IT-Information in Deutschland**. Wenn man wissen will, wie ein Computer technisch tatsächlich funktioniert, wie eine Sicherheitslücke geschlossen wird oder wie die digitale Zukunft aussieht, ist Heise oft die erste Adresse.
-
